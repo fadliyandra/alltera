@@ -9,5 +9,9 @@ func main() {
 	fmt.Println("F")
 	fmt.Println("E")
 	fmt.Println("D")
+<<<<<<< HEAD
 	fmt.Println("new-geaturec")
+=======
+	fmt.Println("feature a")
+>>>>>>> featureaA
 }
