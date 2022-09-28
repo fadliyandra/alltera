@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("F")
 	fmt.Println("E")
 	fmt.Println("D")
+	fmt.Println("new-geaturec")
 }
